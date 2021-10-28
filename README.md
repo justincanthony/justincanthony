@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justincanthony&show_icons=true&theme=synthwave)](https://github.com/justincanthony/github-readme-stats)
+[![Justin's GitHub stats](https://github-readme-stats.vercel.app/api?username=justincanthony&show_icons=true&theme=synthwave)]
