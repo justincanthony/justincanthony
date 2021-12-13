@@ -7,7 +7,7 @@ const justin = {
   location: "Denver, CO",
   hobbies: ["rock climbing", "backcountry skiing","guitar", "wine", "cooking", "Italy (yes it's a hobby for me)"],
   traits: ["friendly",  "analytical", "futuristic", "theoritical", "creative"],
-  selfAffirmations: ["I'm funny"],
+  selfAffirmation: "I'm funny"
   techStack:["Javascript", "React", "TDD", "CSS3", "HTML5", "Agile Practices"],
   contact: {
     email: "justincanthony@gmail.com",
