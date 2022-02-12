@@ -11,7 +11,8 @@ const justin = {
     email: "justincanthony@gmail.com",
     linkedIn: "https://www.linkedin.com/in/justincanthony/"
     portfolio: "https://terminal.turing.edu/alumni/1029-justin-anthony"
-}
+    }
+  }
 ```
 
 <!--
