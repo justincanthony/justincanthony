@@ -6,9 +6,7 @@ const justin = {
   pronouns: "He/Him",
   location: "Denver, CO",
   hobbies: ["rock climbing", "backcountry skiing","guitar", "wine", "cooking", "Italy (yes it's a hobby for me)"],
-  traits: ["friendly",  "analytical", "futuristic", "theoritical", "creative"],
-  selfAffirmation: "I'm funny"
-  techStack:["Javascript", "React", "TDD", "CSS3", "HTML5", "Agile Practices"],
+  techStack:["Javascript", "Java", "React", "TDD", "CSS3", "HTML5"],
   contact: {
     email: "justincanthony@gmail.com",
     linkedIn: "https://www.linkedin.com/in/justincanthony/"
