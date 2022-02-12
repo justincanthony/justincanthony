@@ -3,7 +3,7 @@
 
 ```
 const justin = {
-  pronouns: "He/Him",
+  pronouns: "he/him",
   location: "Denver, CO",
   hobbies: ["rock climbing", "backcountry skiing","guitar", "wine", "cooking", "Italy (yes it's a hobby for me)"],
   techStack:["Javascript", "Java", "React", "TDD", "CSS3", "HTML5"],
